@@ -9,3 +9,6 @@
     + npm install gulp --save-dev
         if not run, try install gulp -g
     + [projectDir]/gulp
+
+Other reference:
+https://yuriburger.net/2017/09/27/getting-started-with-sonarqube-and-typescript/
